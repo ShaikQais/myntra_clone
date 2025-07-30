@@ -19,7 +19,7 @@ A simple **Myntra e-commerce website clone** built with **HTML, CSS, and JavaScr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/myntra-clone.git
+   git clone [https://github.com/your-username/myntra-clone.git](https://github.com/ShaikQais/myntra_clone/tree/main/myntra_clone-master)
    cd myntra-clone
    ```
 
