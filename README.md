@@ -49,7 +49,7 @@ myntra-clone/
 ## 🧑‍💻 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/myntra-clone.git
+https://github.com/ShaikQais/myntra_clone.git
 cd myntra-clone
 open index.html  # or open in browser manually
 ```
